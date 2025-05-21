@@ -1,0 +1,31 @@
+<!-- app.component.html -->
+<div class="app-container">
+  <h2>{{ title }}</h2>
+  
+<!-- For profile picture upload -->
+  <!-- <app-file-upload
+    pageIdentifier="profile-picture"
+    (uploadComplete)="onUploadComplete($event)"
+    (uploadError)="onUploadError($event)"
+    (progress)="onProgress($event)"
+  ></app-file-upload> -->
+
+  <!-- For document upload -->
+  <app-file-upload
+    pageIdentifier="document-upload"
+    (uploadComplete)="onUploadComplete($event)"
+    (uploadError)="onUploadError($event)"
+    (progress)="onProgress($event)"
+  ></app-file-upload>
+
+  <!-- <app-file-upload
+  [allowedTypes]="'.jpg,.png,.pdf,.doc,.docx,.csv,.xls,.xlsx,.zip,.tar,.gz,.mp3,.mp4,.avi,.json,.xml,.html'"
+  [allowedMimeTypes]="'image/jpeg,image/png,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,text/csv,application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/zip,application/x-tar,application/x-gzip,audio/mpeg,video/mp4,video/x-msvideo,application/json,text/xml,text/html'"
+  [maxSize]="100 * 1024 * 1024" 
+  (uploadComplete)="onUploadComplete($event)"
+  (uploadError)="onUploadError($event)"
+  (progress)="onProgress($event)"
+></app-file-upload> -->
+
+
+</div>

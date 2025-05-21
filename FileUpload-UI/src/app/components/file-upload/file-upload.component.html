@@ -1,0 +1,36 @@
+<!-- components/file-upload/file-upload.component.html -->
+<div class="file-upload-container">
+    <div class="file-selector">
+      <input 
+        type="file" 
+        (change)="onFileSelected($event)" 
+        [accept]="allowedTypes"
+        [disabled]="isUploading"
+        #fileInput
+      >
+      <button 
+        (click)="fileInput.click()"
+        [disabled]="isUploading"
+      >
+        Select File
+      </button>
+      <span *ngIf="selectedFile" class="file-name">
+        {{ selectedFile.name }} ({{ selectedFile.size | fileSize }})
+      </span>
+    </div>
+    
+    <div *ngIf="errorMessage" class="error-message">
+      {{ errorMessage }}
+    </div>
+    
+    <div class="upload-controls" *ngIf="selectedFile && !isUploading">
+      <button (click)="uploadFile()">Upload</button>
+    </div>
+    
+    <div *ngIf="isUploading" class="upload-progress">
+      <div class="progress-bar">
+        <div class="progress" [style.width.%]="uploadProgress"></div>
+      </div>
+      <div class="progress-text">{{ uploadProgress }}%</div>
+    </div>
+  </div>

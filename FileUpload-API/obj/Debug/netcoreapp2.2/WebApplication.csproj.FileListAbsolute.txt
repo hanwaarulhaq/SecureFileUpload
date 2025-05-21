@@ -1,0 +1,74 @@
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication.csproj.AssemblyReference.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.AssemblyReference.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.genruntimeconfig.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.csproj.AssemblyReference.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\New folder\WebApi\obj\Debug\netcoreapp2.2\WebApplication.genruntimeconfig.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.csproj.AssemblyReference.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\hanwaar\Desktop\SecureFileUpload\WebApi\obj\Debug\netcoreapp2.2\WebApplication.genruntimeconfig.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.csproj.AssemblyReference.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\hanwaar\Desktop\SecureFileUpload\FileUpload-API\obj\Debug\netcoreapp2.2\WebApplication.genruntimeconfig.cache
